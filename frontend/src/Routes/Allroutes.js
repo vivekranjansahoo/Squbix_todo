@@ -1,5 +1,5 @@
-export const host = "http://localhost:3002";
-// export const host = "https://.onrender.com";
+// export const host = "http://localhost:3002";
+export const host = "https://squbix-todo.onrender.com";
 
 //login
 export const login = `${host}/api/auth/login`;
